@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://content.da.live/frederikanrys/aem-ue-sites/
+    url: https://content.da.live/frederikanrys/aem-ue-telenet/
     type: markup
