@@ -1,5 +1,5 @@
 {
-  "name": "@adobe/aem-block-collection",
+  "name": "@frederikanrys/aem-ue-telenet",
   "private": true,
   "version": "1.0.0",
   "description": "Block collection for AEM",
@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adobe/aem-block-collection.git"
+    "url": "git+https://github.com/frederikanrys/aem-ue-telenet.git"
   },
-  "author": "Adobe",
+  "author": "Frederik Anrys",
   "license": "Apache License 2.0",
   "bugs": {
-    "url": "https://github.com/adobe/aem-block-collection/issues"
+    "url": "https://github.com/frederikanrys/aem-ue-telenet/issues"
   },
-  "homepage": "https://github.com/adobe/aem-block-collection#readme",
+  "homepage": "https://github.com/frederikanrys/aem-ue-telenet#readme",
   "devDependencies": {
     "@babel/eslint-parser": "7.24.8",
     "eslint": "8.57.0",
